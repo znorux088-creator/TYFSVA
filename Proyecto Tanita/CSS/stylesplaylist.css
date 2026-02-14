@@ -1,0 +1,37 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh
+
+}
+body{
+    text-align: center;
+    background: linear-gradient(#a09, #a0f);
+}
+h2{
+    color:whitesmoke;
+}
+p{
+    color:whitesmoke;
+}
+div{
+    text-align: center; 
+}
+.ppersona{
+    color:whitesmoke;
+}
+.hiperimg{
+    width: 200px;
+    height: 200px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.linkp{
+    color: whitesmoke;
+    text-align: center;
+    background: transparent;
+}
+h3{
+    text-align: left;
+    margin-left: 40px;
+}
